@@ -1,0 +1,6 @@
+{
+  "id": 69,
+  "title": "Follow Arrange, Act, Assert",
+  "body": "Set up the data, perform one action, then check the result; the fixed shape makes every test quick to read.",
+  "tag": "testing"
+}
