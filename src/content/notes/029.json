@@ -1,0 +1,6 @@
+{
+  "id": 29,
+  "title": "Export metadata from your routes",
+  "body": "The metadata export or generateMetadata sets the title and description for each route without hand-written head tags.",
+  "tag": "nextjs"
+}
