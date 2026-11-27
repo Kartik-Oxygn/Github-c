@@ -1,0 +1,6 @@
+{
+  "id": 58,
+  "title": "Cache fingerprinted assets for a long time",
+  "body": "When a file's name includes a content hash, a changed file gets a new URL, so the old one can be cached for a year.",
+  "tag": "perf"
+}
