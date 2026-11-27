@@ -1,0 +1,6 @@
+{
+  "id": 61,
+  "title": "Escape output by default",
+  "body": "React escapes text automatically; avoid dangerouslySetInnerHTML unless the HTML has been sanitized first.",
+  "tag": "security"
+}
