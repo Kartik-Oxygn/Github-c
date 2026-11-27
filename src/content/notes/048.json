@@ -1,0 +1,6 @@
+{
+  "id": 48,
+  "title": "Don't rely on color alone",
+  "body": "Pair color with text or icons for states like errors so the message also reaches people who are colorblind.",
+  "tag": "a11y"
+}
