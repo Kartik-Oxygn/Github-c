@@ -1,0 +1,6 @@
+{
+  "id": 7,
+  "title": "Prefer unknown over any",
+  "body": "unknown forces you to narrow a value before using it, while any silently switches off type checking.",
+  "tag": "typescript"
+}
