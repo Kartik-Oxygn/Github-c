@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "title": "Stage hunks, not whole files",
+  "body": "git add -p lets you pick exactly which changes go into a commit, keeping unrelated edits out of it.",
+  "tag": "git"
+}
