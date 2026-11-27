@@ -1,0 +1,6 @@
+{
+  "id": 22,
+  "title": "Keep components pure",
+  "body": "Given the same props and state, a component should return the same output and cause no side effects while rendering.",
+  "tag": "react"
+}
