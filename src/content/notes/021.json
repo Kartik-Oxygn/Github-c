@@ -1,0 +1,6 @@
+{
+  "id": 21,
+  "title": "Clean up your effects",
+  "body": "Return a cleanup function from an effect to remove listeners, clear timers and abort requests that are still in flight.",
+  "tag": "react"
+}
