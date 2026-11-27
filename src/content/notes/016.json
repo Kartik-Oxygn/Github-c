@@ -1,0 +1,6 @@
+{
+  "id": 16,
+  "title": "Give list items stable keys",
+  "body": "Keys should come from the data, like an id; array indexes break when items are reordered, inserted or removed.",
+  "tag": "react"
+}
