@@ -1,0 +1,6 @@
+{
+  "id": 3,
+  "title": "Use git switch and git restore",
+  "body": "They split the overloaded git checkout into clearer commands for changing branches and for discarding file changes.",
+  "tag": "git"
+}
