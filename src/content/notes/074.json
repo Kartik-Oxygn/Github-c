@@ -1,0 +1,6 @@
+{
+  "id": 74,
+  "title": "Use the right status codes",
+  "body": "Return 201 for created resources, 400 for bad input, 401 when not signed in and 403 when signed in but not allowed.",
+  "tag": "http"
+}
