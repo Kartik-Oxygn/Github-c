@@ -1,0 +1,6 @@
+{
+  "id": 18,
+  "title": "Lift state only as high as needed",
+  "body": "Keep state close to where it is used; lifting it too far up re-renders more of the tree than necessary.",
+  "tag": "react"
+}
