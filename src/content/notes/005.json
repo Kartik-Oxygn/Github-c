@@ -1,0 +1,6 @@
+{
+  "id": 5,
+  "title": "Rebase local work, not shared history",
+  "body": "Rewriting commits that others have pulled forces them to untangle diverged history, so only rebase what is still yours.",
+  "tag": "git"
+}
