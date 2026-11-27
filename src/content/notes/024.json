@@ -1,0 +1,6 @@
+{
+  "id": 24,
+  "title": "Push 'use client' to the leaves",
+  "body": "Mark only the interactive parts as client components so the rest of the tree stays server-rendered.",
+  "tag": "nextjs"
+}
