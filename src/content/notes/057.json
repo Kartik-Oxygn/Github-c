@@ -1,0 +1,6 @@
+{
+  "id": 57,
+  "title": "Avoid request waterfalls",
+  "body": "Start independent requests together with Promise.all instead of awaiting them one after another.",
+  "tag": "perf"
+}
