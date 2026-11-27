@@ -1,0 +1,6 @@
+{
+  "id": 26,
+  "title": "Self-host fonts with next/font",
+  "body": "Fonts are downloaded at build time and served with your other static assets, so the browser makes no request to a font CDN.",
+  "tag": "nextjs"
+}
