@@ -1,0 +1,6 @@
+{
+  "id": 51,
+  "title": "Test with only a keyboard",
+  "body": "Tab through every page: each interactive element should be reachable, visibly focused and usable without a mouse.",
+  "tag": "a11y"
+}
