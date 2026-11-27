@@ -1,0 +1,6 @@
+{
+  "id": 67,
+  "title": "Keep dependencies up to date",
+  "body": "Run npm audit and update regularly; many breaches exploit known vulnerabilities in outdated packages.",
+  "tag": "security"
+}
