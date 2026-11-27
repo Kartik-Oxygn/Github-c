@@ -1,0 +1,6 @@
+{
+  "id": 77,
+  "title": "Compress text responses",
+  "body": "Enabling gzip or Brotli for HTML, CSS, JavaScript and JSON shrinks what has to travel over the network.",
+  "tag": "http"
+}
