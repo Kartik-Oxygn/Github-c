@@ -1,0 +1,6 @@
+{
+  "id": 63,
+  "title": "Set a Content Security Policy",
+  "body": "A CSP limits where scripts may load from, which blunts the damage an injected script can do.",
+  "tag": "security"
+}
