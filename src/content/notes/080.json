@@ -1,0 +1,6 @@
+{
+  "id": 80,
+  "title": "Return one consistent error shape",
+  "body": "Use the same error format across endpoints so clients can handle every failure with a single code path.",
+  "tag": "http"
+}
