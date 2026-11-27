@@ -1,0 +1,6 @@
+{
+  "id": 37,
+  "title": "Make type fluid with clamp",
+  "body": "clamp(1rem, 0.9rem + 0.5vw, 1.25rem) scales text with the viewport while keeping it within readable bounds.",
+  "tag": "css"
+}
