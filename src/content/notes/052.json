@@ -1,0 +1,6 @@
+{
+  "id": 52,
+  "title": "Measure before optimizing",
+  "body": "Profile with realistic data first; the slow part is rarely where intuition says it is.",
+  "tag": "perf"
+}
