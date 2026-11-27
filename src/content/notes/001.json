@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "title": "Write commit messages in the imperative",
+  "body": "Phrase the subject as a command, like 'Add login form', so it reads naturally as 'this commit will add login form'.",
+  "tag": "git"
+}
