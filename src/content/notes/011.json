@@ -1,0 +1,6 @@
+{
+  "id": 11,
+  "title": "Mark data readonly",
+  "body": "readonly properties and ReadonlyArray catch accidental mutation at compile time, at no runtime cost.",
+  "tag": "typescript"
+}
