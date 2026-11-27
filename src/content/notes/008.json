@@ -1,0 +1,6 @@
+{
+  "id": 8,
+  "title": "Let inference do the work",
+  "body": "Annotate function parameters and exported return types, and let TypeScript infer the types of local variables.",
+  "tag": "typescript"
+}
