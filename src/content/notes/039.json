@@ -1,0 +1,6 @@
+{
+  "id": 39,
+  "title": "Reserve space with aspect-ratio",
+  "body": "Setting aspect-ratio on media containers holds their space before the content loads and prevents layout shift.",
+  "tag": "css"
+}
