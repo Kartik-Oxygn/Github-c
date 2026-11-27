@@ -1,0 +1,6 @@
+{
+  "id": 12,
+  "title": "Turn on strict mode",
+  "body": "strict enables null checks and other safety flags that catch whole classes of bugs before they ship.",
+  "tag": "typescript"
+}
