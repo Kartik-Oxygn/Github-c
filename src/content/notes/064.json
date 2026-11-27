@@ -1,0 +1,6 @@
+{
+  "id": 64,
+  "title": "Hash passwords with a slow algorithm",
+  "body": "Use Argon2, scrypt or bcrypt so stolen hashes are expensive to crack, and never store passwords in plain text.",
+  "tag": "security"
+}
