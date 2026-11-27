@@ -1,0 +1,6 @@
+{
+  "id": 41,
+  "title": "Respect prefers-reduced-motion",
+  "body": "Wrap non-essential animation in a reduced-motion media query so people who get motion sickness can opt out.",
+  "tag": "css"
+}
