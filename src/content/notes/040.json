@@ -1,0 +1,6 @@
+{
+  "id": 40,
+  "title": "Style focus with :focus-visible",
+  "body": ":focus-visible shows focus rings to keyboard users without flashing them on every mouse click.",
+  "tag": "css"
+}
