@@ -1,0 +1,6 @@
+{
+  "id": 15,
+  "title": "Derive values instead of storing them",
+  "body": "If a value can be computed from props or state, compute it during render rather than keeping extra state in sync.",
+  "tag": "react"
+}
