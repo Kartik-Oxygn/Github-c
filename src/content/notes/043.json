@@ -1,0 +1,6 @@
+{
+  "id": 43,
+  "title": "Use real buttons for actions",
+  "body": "A button element is focusable and keyboard-operable for free; a clickable div needs all of that rebuilt by hand.",
+  "tag": "a11y"
+}
