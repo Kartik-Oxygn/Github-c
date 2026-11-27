@@ -1,0 +1,6 @@
+{
+  "id": 68,
+  "title": "Test behavior, not implementation",
+  "body": "Assert on what users see and do, so refactors that keep behavior the same do not break your tests.",
+  "tag": "testing"
+}
