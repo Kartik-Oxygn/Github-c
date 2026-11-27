@@ -1,0 +1,6 @@
+{
+  "id": 9,
+  "title": "Model states with discriminated unions",
+  "body": "A shared literal field like status lets TypeScript narrow each case and flag the ones you forgot to handle.",
+  "tag": "typescript"
+}
