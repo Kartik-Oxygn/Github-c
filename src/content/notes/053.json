@@ -1,0 +1,6 @@
+{
+  "id": 53,
+  "title": "Watch Largest Contentful Paint",
+  "body": "LCP marks when the main content appears; aim for 2.5 seconds or less for most visits.",
+  "tag": "perf"
+}
