@@ -1,0 +1,6 @@
+{
+  "id": 25,
+  "title": "Use next/image for images",
+  "body": "It resizes, lazy-loads and serves modern formats automatically, and reserves space so images do not shift the layout.",
+  "tag": "nextjs"
+}
