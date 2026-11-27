@@ -1,0 +1,6 @@
+{
+  "id": 65,
+  "title": "Mark session cookies HttpOnly and Secure",
+  "body": "HttpOnly keeps scripts from reading the cookie, and Secure keeps it off unencrypted connections.",
+  "tag": "security"
+}
