@@ -1,0 +1,6 @@
+{
+  "id": 23,
+  "title": "Server Components are the default",
+  "body": "In the App Router, components render on the server unless marked 'use client', which keeps their code out of the browser bundle.",
+  "tag": "nextjs"
+}
