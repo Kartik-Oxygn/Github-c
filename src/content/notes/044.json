@@ -1,0 +1,6 @@
+{
+  "id": 44,
+  "title": "Give every input a label",
+  "body": "Associate a label with each form field so screen readers announce what the field is for.",
+  "tag": "a11y"
+}
