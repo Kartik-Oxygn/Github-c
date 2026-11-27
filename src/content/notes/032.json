@@ -1,0 +1,6 @@
+{
+  "id": 32,
+  "title": "Colocate files next to your routes",
+  "body": "Only page and route files become public routes, so components and tests can live right beside the pages that use them.",
+  "tag": "nextjs"
+}
