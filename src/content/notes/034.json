@@ -1,0 +1,6 @@
+{
+  "id": 34,
+  "title": "Reach for grid in two dimensions",
+  "body": "Grid handles rows and columns together, while flexbox shines when laying items out along a single axis.",
+  "tag": "css"
+}
