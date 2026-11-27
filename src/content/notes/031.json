@@ -1,0 +1,6 @@
+{
+  "id": 31,
+  "title": "Use Link for internal navigation",
+  "body": "next/link prefetches routes and navigates on the client, so moving between pages feels instant.",
+  "tag": "nextjs"
+}
