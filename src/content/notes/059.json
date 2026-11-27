@@ -1,0 +1,6 @@
+{
+  "id": 59,
+  "title": "Reserve space to reduce layout shift",
+  "body": "Give images, embeds and ads reserved space so the content does not jump around while the page loads.",
+  "tag": "perf"
+}
