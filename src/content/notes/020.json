@@ -1,0 +1,6 @@
+{
+  "id": 20,
+  "title": "Reset state with a key",
+  "body": "Changing a component's key remounts it, which is the simplest way to reset all of its state at once.",
+  "tag": "react"
+}
