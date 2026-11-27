@@ -1,0 +1,6 @@
+{
+  "id": 47,
+  "title": "Check color contrast",
+  "body": "Normal body text needs a contrast ratio of at least 4.5:1 against its background to meet WCAG AA.",
+  "tag": "a11y"
+}
