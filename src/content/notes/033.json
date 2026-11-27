@@ -1,0 +1,6 @@
+{
+  "id": 33,
+  "title": "Use rem for font sizes",
+  "body": "rem scales with the browser's font size setting, so your text respects people who need larger type.",
+  "tag": "css"
+}
