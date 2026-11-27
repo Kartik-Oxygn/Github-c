@@ -1,0 +1,6 @@
+{
+  "id": 71,
+  "title": "Query by role in UI tests",
+  "body": "getByRole finds elements the way assistive technology does, which also nudges you toward accessible markup.",
+  "tag": "testing"
+}
