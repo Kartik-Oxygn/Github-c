@@ -1,0 +1,6 @@
+{
+  "id": 56,
+  "title": "Debounce noisy input handlers",
+  "body": "Debouncing search-as-you-type waits for a pause in typing before firing, which cuts redundant requests.",
+  "tag": "perf"
+}
