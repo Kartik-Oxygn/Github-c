@@ -1,0 +1,6 @@
+{
+  "id": 73,
+  "title": "Write a failing test for each bug",
+  "body": "Reproduce a bug in a test before fixing it, so the same bug cannot quietly come back later.",
+  "tag": "testing"
+}
