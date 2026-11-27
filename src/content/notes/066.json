@@ -1,0 +1,6 @@
+{
+  "id": 66,
+  "title": "Rate limit sensitive endpoints",
+  "body": "Limiting attempts on login and password reset slows down brute-force and credential-stuffing attacks.",
+  "tag": "security"
+}
