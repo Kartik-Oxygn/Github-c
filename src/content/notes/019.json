@@ -1,0 +1,6 @@
+{
+  "id": 19,
+  "title": "Use updater functions for state from state",
+  "body": "setCount(c => c + 1) always starts from the latest value, even when several updates are batched together.",
+  "tag": "react"
+}
