@@ -1,0 +1,6 @@
+{
+  "id": 2,
+  "title": "Keep commits small and focused",
+  "body": "One logical change per commit makes review easier and lets you revert a mistake without undoing unrelated work.",
+  "tag": "git"
+}
