@@ -1,0 +1,6 @@
+{
+  "id": 50,
+  "title": "Use landmark elements",
+  "body": "header, nav, main and footer let assistive technology jump straight to the part of the page someone needs.",
+  "tag": "a11y"
+}
