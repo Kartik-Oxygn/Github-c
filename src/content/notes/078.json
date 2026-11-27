@@ -1,0 +1,6 @@
+{
+  "id": 78,
+  "title": "Use ETags for cheap revalidation",
+  "body": "With an ETag, the browser can ask whether a resource changed and get a tiny 304 response when it has not.",
+  "tag": "http"
+}
