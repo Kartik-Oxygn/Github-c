@@ -1,0 +1,6 @@
+{
+  "id": 36,
+  "title": "Define design tokens as custom properties",
+  "body": "CSS variables for colors and spacing keep values consistent and turn theming into swapping a handful of values.",
+  "tag": "css"
+}
