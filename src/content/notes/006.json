@@ -1,0 +1,6 @@
+{
+  "id": 6,
+  "title": "Find the breaking commit with git bisect",
+  "body": "Mark one good and one bad commit, and git bisect binary-searches the history to find where a bug first appeared.",
+  "tag": "git"
+}
