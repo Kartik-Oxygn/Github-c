@@ -1,0 +1,6 @@
+{
+  "id": 54,
+  "title": "Lazy-load images below the fold",
+  "body": "loading='lazy' defers offscreen images so early bandwidth goes to what people can actually see.",
+  "tag": "perf"
+}
