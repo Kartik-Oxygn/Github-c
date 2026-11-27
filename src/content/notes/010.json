@@ -1,0 +1,6 @@
+{
+  "id": 10,
+  "title": "Use satisfies to check without widening",
+  "body": "The satisfies operator validates a value against a type while keeping its more specific inferred type.",
+  "tag": "typescript"
+}
