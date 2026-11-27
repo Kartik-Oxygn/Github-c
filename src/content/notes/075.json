@@ -1,0 +1,6 @@
+{
+  "id": 75,
+  "title": "Make PUT and DELETE idempotent",
+  "body": "Repeating the same PUT or DELETE should leave the server in the same state, which makes retries safe.",
+  "tag": "http"
+}
