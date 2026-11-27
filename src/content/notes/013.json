@@ -1,0 +1,6 @@
+{
+  "id": 13,
+  "title": "Validate data at the boundary",
+  "body": "Types disappear at runtime, so check API responses and user input against a schema before trusting them.",
+  "tag": "typescript"
+}
