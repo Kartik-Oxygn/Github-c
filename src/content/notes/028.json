@@ -1,0 +1,6 @@
+{
+  "id": 28,
+  "title": "Handle errors per route with error.tsx",
+  "body": "An error file catches errors in its segment and shows a fallback without taking down the rest of the app.",
+  "tag": "nextjs"
+}
