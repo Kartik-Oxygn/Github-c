@@ -1,0 +1,6 @@
+{
+  "id": 38,
+  "title": "Prefer logical properties",
+  "body": "margin-inline and padding-block follow the writing direction, so layouts also work in right-to-left languages.",
+  "tag": "css"
+}
