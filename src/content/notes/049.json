@@ -1,0 +1,6 @@
+{
+  "id": 49,
+  "title": "Make links say where they go",
+  "body": "Link text like 'read the pricing guide' makes sense out of context, while 'click here' does not.",
+  "tag": "a11y"
+}
