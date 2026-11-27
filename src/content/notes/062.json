@@ -1,0 +1,6 @@
+{
+  "id": 62,
+  "title": "Use parameterized queries",
+  "body": "Passing values as query parameters instead of concatenating them into SQL strings prevents SQL injection.",
+  "tag": "security"
+}
