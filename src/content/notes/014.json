@@ -1,0 +1,6 @@
+{
+  "id": 14,
+  "title": "Use as const for literal values",
+  "body": "as const keeps literal types and turns arrays into readonly tuples instead of widening them to string[].",
+  "tag": "typescript"
+}
