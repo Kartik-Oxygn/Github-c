@@ -1,0 +1,6 @@
+{
+  "id": 55,
+  "title": "Split code that is rarely used",
+  "body": "A dynamic import loads a heavy component only when it is needed instead of shipping it in the first bundle.",
+  "tag": "perf"
+}
