@@ -1,0 +1,6 @@
+{
+  "id": 72,
+  "title": "Keep tests independent",
+  "body": "Each test should set up its own data so tests pass in any order and a failure points to a single cause.",
+  "tag": "testing"
+}
