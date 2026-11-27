@@ -1,0 +1,6 @@
+{
+  "id": 27,
+  "title": "Add loading.tsx for instant feedback",
+  "body": "A loading file wraps the route segment in Suspense, so users see a fallback right away while content streams in.",
+  "tag": "nextjs"
+}
