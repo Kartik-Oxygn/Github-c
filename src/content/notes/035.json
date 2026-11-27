@@ -1,0 +1,6 @@
+{
+  "id": 35,
+  "title": "Use gap instead of margins between items",
+  "body": "gap spaces flex and grid children evenly without the first-child and last-child edge cases that margins bring.",
+  "tag": "css"
+}
