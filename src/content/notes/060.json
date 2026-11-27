@@ -1,0 +1,6 @@
+{
+  "id": 60,
+  "title": "Never commit secrets",
+  "body": "Keep keys in environment variables or a secret manager, and rotate any secret that ever lands in git history.",
+  "tag": "security"
+}
